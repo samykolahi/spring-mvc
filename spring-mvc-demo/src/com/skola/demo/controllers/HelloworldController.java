@@ -19,7 +19,7 @@ public class HelloworldController {
 		return "helloworld";
 	}
 	
-	@RequestMapping("/process-form-shout")
+	@RequestMapping("process-form-shout")
 	public String shoutStudentName(HttpServletRequest request, Model model) {
 		
 		String studentName = request.getParameter("studentName");
