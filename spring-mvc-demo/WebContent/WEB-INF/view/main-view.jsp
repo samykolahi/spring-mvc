@@ -9,6 +9,6 @@
 <body>
 	<h1>This is the main page</h1>
 	
-	<a href="get-form">Hello world form</a>
+	<a href="hello/get-form">Hello world form</a>
 </body>
 </html>
